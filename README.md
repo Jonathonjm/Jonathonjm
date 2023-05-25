@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jonathonjm
-- 👀 I’m interested in everything coding
+- 👀 I’m interested in everything coding AI technology and automation
 - 🌱 I’m currently learning basic coding and computer science.
 - 💞️ I’m looking to collaborate on tips, strategies, and techniques in becoming a self-taught software engineer.
 - 📫 How to reach me Jonathon.morgan185@gmail.com
